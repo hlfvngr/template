@@ -1,4 +1,0 @@
-[template]
-skip_render = [
-    "cliff.toml"
-]
