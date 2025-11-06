@@ -1,4 +1,1 @@
 [template]
-ignore = [ 
-  "cliff.toml"
-]
