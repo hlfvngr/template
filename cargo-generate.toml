@@ -1,1 +1,2 @@
 [template]
+skip = ["cliff.toml"]
